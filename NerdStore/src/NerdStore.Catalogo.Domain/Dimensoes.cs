@@ -33,4 +33,3 @@ namespace NerdStore.Catalogo.Domain
         }
     }
 }
-}
